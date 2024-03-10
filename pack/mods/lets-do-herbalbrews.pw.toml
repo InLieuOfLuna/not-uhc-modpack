@@ -1,0 +1,13 @@
+name = "Let's Do: HerbalBrews"
+filename = "letsdo-herbalbrews-fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eh11TaTm/versions/JNTCDU7V/letsdo-herbalbrews-fabric-1.0.4.jar"
+hash-format = "sha1"
+hash = "176c4bebbe2d6edcd4d42f234f0055738d73d0b0"
+
+[update]
+[update.modrinth]
+mod-id = "Eh11TaTm"
+version = "JNTCDU7V"

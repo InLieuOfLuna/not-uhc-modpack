@@ -1,0 +1,13 @@
+name = "Where Is It"
+filename = "whereisit-2.3.4+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FCTyEqkn/versions/o551CUUa/whereisit-2.3.4%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "cc72a1cf0127606e5a56669bb88f29105ba5e139"
+
+[update]
+[update.modrinth]
+mod-id = "FCTyEqkn"
+version = "o551CUUa"

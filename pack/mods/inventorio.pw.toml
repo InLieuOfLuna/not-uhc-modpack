@@ -1,0 +1,13 @@
+name = "Inventorio"
+filename = "inventorio-1.20-fabric-1.9.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LcafSQPm/versions/MMQSoMfD/inventorio-1.20-fabric-1.9.2.jar"
+hash-format = "sha1"
+hash = "a6b772ed737649135fef6d206398e2254b6576e2"
+
+[update]
+[update.modrinth]
+mod-id = "LcafSQPm"
+version = "MMQSoMfD"

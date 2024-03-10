@@ -1,0 +1,13 @@
+name = "Not a UHC Pack"
+author = "Luna"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "60a0ab8cdaa6fb4ff10151c111008dd0c5eba747262885de9ed4cc4504878c21"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.1"

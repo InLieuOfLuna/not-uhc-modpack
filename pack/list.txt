@@ -1,0 +1,58 @@
+Alloy Forgery
+Architectury API
+Better Climbing
+Bookshelf
+Cloth Config API
+Continents
+CoroUtil
+Dynamic FPS
+Dynamic Surroundings: Fabric Edition
+Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
+EMI
+Enchantery
+Enhanced Attack Indicator
+Entity Culling
+Fabric API
+Fabric Language Kotlin
+Fabrication & Forgery
+Figura
+First-person Model
+ImmediatelyFast
+Immersive Weathering
+Indium
+Inventorio
+Just Enough Items
+Leaves Us In Peace
+Let's Do: API
+Let's Do: Bakery
+Let's Do: Beachparty
+Let's Do: Candlelight
+Let's Do: HerbalBrews
+Let's Do: Meadow
+Let's Do: NetherVinery
+Let's Do: Vinery
+Meticulous
+Mod Menu
+ModernFix
+Moonlight Lib
+Mythic Metals
+Not Enough Animations
+oωo (owo-lib)
+Ping Wheel
+Potion Particle Pack
+Preferred Gamerules
+QuickStack
+Show Me What You Got
+Smoke Signals
+Sodium
+Spice of Life: Valheim Edition
+Spyglass Astronomy
+Status Effect Bars
+TerraBlender
+Tool Stats
+Trade Cycling
+Traverse
+What Are They Up To (Watut)
+Where Is It
+YetAnotherConfigLib
+Zoomglass
