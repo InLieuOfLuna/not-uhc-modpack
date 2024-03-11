@@ -1,48 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabrication/block_logo.ini"
-hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
-
-[[files]]
-file = "config/fabrication/block_logo.png"
-hash = "f2938cfb35d857049425b51f59ce557dd8f329e6b76bef68ffb561f118a4def0"
-
-[[files]]
-file = "config/fabrication/classic_block_drops.ini"
-hash = "45e501b8528ef8d27c2a67efd27304c81cd0503f8b0671094e6653eefd394b12"
-
-[[files]]
-file = "config/fabrication/dimensional_tools.ini"
-hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
-
-[[files]]
 file = "config/fabrication/features.ini"
 hash = "6e44d98362284ad4f75178102699da4faf06298b9b3a4ca1f04ece8bbeba2bb8"
-
-[[files]]
-file = "config/fabrication/fscript.ini"
-hash = "06d742af1c186bd89bb808f7ff407865f1c08b1ebf7bb2e52ae2d042b64acd16"
-
-[[files]]
-file = "config/fabrication/gear_components.ini"
-hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
-
-[[files]]
-file = "config/fabrication/item_despawn.ini"
-hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
-
-[[files]]
-file = "config/fabrication/taggable_players.ini"
-hash = "fe069b4316f910f2f3b703cedd9930b73eed74c2ae86909f8b43a8ffd3d1af45"
-
-[[files]]
-file = "config/fabrication/yeet_recipes.ini"
-hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
-
-[[files]]
-file = "list.txt"
-hash = "d9cbcd76c5a8da82960d73520ba38c88c5cce539fd24af5a5f6f66baed24a43d"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -91,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
-hash = "f0a4562f19849d0bfc567017d4b6f04b57787ade7938a586aca24ec5481964d1"
+hash = "5b0c16b9d7b811b3f60fd77055392012b40c8660000f9fb94b488b589d27bdaa"
 metafile = true
 
 [[files]]
@@ -101,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/couplings.pw.toml"
-hash = "5fc93b617e87a64c0d687b12cccef78366566d84e2012a4dd6a94340d60bdd7f"
+hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
 metafile = true
 
 [[files]]
@@ -136,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b65744fcf3ebfd08258a1d930f7821dd9b9df32f88295433b2bbdb9d4d78664d"
+hash = "cc7100eee64f1e580cfbf55002240cc3a5d2298db69ed864a0c4712c886dbce6"
 metafile = true
 
 [[files]]
@@ -211,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "97dde1d017b8c9385ba339ab769b85d7ec299f7c8ce5b31e5935c42f4c3eac21"
+hash = "85e5ee80b3d6911217d846c082408fdf008aaf10386032e90a9caed44c89f785"
 metafile = true
 
 [[files]]
@@ -306,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/preferred-gamerules.pw.toml"
-hash = "e5994b57f0cbf2891c4065ce9eacfde385a7a424692075458f0936e34b4836c2"
+hash = "65c2655d832bbaa211047817bbe2c921052176324ae62aae8da5f53a4de3eef8"
 metafile = true
 
 [[files]]
@@ -321,12 +281,12 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-what-you-got.pw.toml"
-hash = "cd345d97de598d81756ebb4d2ad44ac307bdabbfc4b01e66a726d20b149e35c6"
+hash = "73e522db6666ce4a96b69a93953553dc02d1bec4520f61207502f154ea6d608e"
 metafile = true
 
 [[files]]
 file = "mods/smoke-signals.pw.toml"
-hash = "66a070f7730a4e6751c112ea14a634964550ca4769308a742a5e7b213d3077bf"
+hash = "3e1382b9299284e8ce1fe254222a7d859891640199cd30251143424eb4b9588a"
 metafile = true
 
 [[files]]
@@ -386,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/where-is-it.pw.toml"
-hash = "485f3557df4e257e4a075d723d5b74791e1bd1d0ce7eff6a92d9934c132bf232"
+hash = "ff1c86dfe9b625dd38cd6165e8f876dd9878eb9cecd383f0353b00052eacf966"
 metafile = true
 
 [[files]]
