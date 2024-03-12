@@ -180,11 +180,6 @@ hash = "85e5ee80b3d6911217d846c082408fdf008aaf10386032e90a9caed44c89f785"
 metafile = true
 
 [[files]]
-file = "mods/leaves-us-in-peace.pw.toml"
-hash = "c23753ee282f1be4a19fb7b90af9705f92043f36c6675028cae7a2ce8c24c609"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-bakery.pw.toml"
 hash = "e8d34c88f46c9b3aa1e21031242e7c76d18f53868633e5c20287128dd3a4696c"
 metafile = true
